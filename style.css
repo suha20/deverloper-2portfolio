@@ -2,6 +2,7 @@ section {
     display: flex;
     font-size: 18px;
     height: 4opx;
+    padding-bottom: 35px;
 }
 
 .link-button {
@@ -34,4 +35,8 @@ span {
 body {
     font-family: sans-serif;
     margin: 0px;
+}
+
+.dream-big {
+    background-image: url(best.jpg);
 }
