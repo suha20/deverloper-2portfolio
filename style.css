@@ -1,4 +1,4 @@
-section {
+.flexible-container {
     display: flex;
     font-size: 18px;
     height: 4opx;
